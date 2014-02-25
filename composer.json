@@ -1,0 +1,14 @@
+{
+    "name": "mlntn/omni-cache",
+    "type": "library",
+    "description": "Swiss Army Knife of caching providers",
+    "keywords": [],
+    "homepage": "http://github.com/mlntn/omni-cache",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jared Mellentine",
+            "email": "jared@mellentine.com"
+        }
+    ]
+}
