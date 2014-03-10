@@ -1,14 +1,24 @@
 {
-    "name": "mlntn/omni-cache",
-    "type": "library",
-    "description": "Swiss Army Knife of caching providers",
-    "keywords": [],
-    "homepage": "http://github.com/mlntn/omni-cache",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Jared Mellentine",
-            "email": "jared@mellentine.com"
-        }
-    ]
+  "name": "mlntn/omni-cache",
+  "type": "library",
+  "description": "Swiss Army Knife of caching providers",
+  "keywords": [],
+  "homepage": "http://github.com/mlntn/omni-cache",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jared Mellentine",
+      "email": "jared@mellentine.com"
+    }
+  ],
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0-dev"
+    }
+  },
+  "autoload": {
+    "psr-0": {
+      "Cache": "Cache"
+    }
+  }
 }
